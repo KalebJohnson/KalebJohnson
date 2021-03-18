@@ -2,14 +2,6 @@
 
 <img href="https://giphy.com/gifs/UnbxrvGdp0mnC/html5"></img>
 
-- 🔭 I’m currently working on ... Lambda Labs (Express Groomer App)
-- 🌱 I’m currently learning ... More backend Technologies!
-- 👯 I’m looking to collaborate on ... Web Applications!
-- 💬 Ask me about ... anything..
-- 📫 How to reach me: ... [My linkedin!](https://www.linkedin.com/in/kaleb-johnson1/)
--->
-
-
 <img align="center" src="https://lh3.googleusercontent.com/proxy/NBBabTJLuqYGTVUdoeg7GdemGDzHVY36ctzeQgOwlazZdFIcxuQJC9CjeEn7ukJxdmjGzBRUUFjt3MdFMsvOMqeZRBSL7tmg"/>
 
 <img align="center" src="https://i.imgur.com/o1xpsU2.gif"/>
