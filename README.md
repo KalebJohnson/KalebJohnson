@@ -1,8 +1,5 @@
 ### What's up! 👋
 
-
-<img align="center" src="https://lh3.googleusercontent.com/proxy/NBBabTJLuqYGTVUdoeg7GdemGDzHVY36ctzeQgOwlazZdFIcxuQJC9CjeEn7ukJxdmjGzBRUUFjt3MdFMsvOMqeZRBSL7tmg"/>
-
 <img align="center" src="https://i.imgur.com/o1xpsU2.gif"/>
 
 
