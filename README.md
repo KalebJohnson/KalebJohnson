@@ -1,6 +1,5 @@
 ### What's up! 👋
 
-<img href="https://giphy.com/gifs/UnbxrvGdp0mnC/html5"></img>
 
 <img align="center" src="https://lh3.googleusercontent.com/proxy/NBBabTJLuqYGTVUdoeg7GdemGDzHVY36ctzeQgOwlazZdFIcxuQJC9CjeEn7ukJxdmjGzBRUUFjt3MdFMsvOMqeZRBSL7tmg"/>
 
