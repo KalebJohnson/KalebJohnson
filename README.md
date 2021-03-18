@@ -1,5 +1,6 @@
 ### What's up! 👋
 
+<img href="https://giphy.com/gifs/UnbxrvGdp0mnC/html5"></img>
 
 - 🔭 I’m currently working on ... Lambda Labs (Express Groomer App)
 - 🌱 I’m currently learning ... More backend Technologies!
