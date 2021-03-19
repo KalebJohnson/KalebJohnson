@@ -18,18 +18,18 @@
 ![Sass](https://img.shields.io/badge/sass-006167?style=for-the-badge&logo=sass&logoColor=white&labelColor=141321)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-006167?style=for-the-badge&logo=javascript&logoColor=white&labelColor=141321)
 <br>
-![Node.js (express)](https://img.shields.io/badge/-node.js-006167?style=for-the-badge&logo=google&logoColor=white&labelColor=141321)
+![Node.js (express)](https://img.shields.io/badge/-node.js-006167?style=for-the-badge&logo=Node&logoColor=white&labelColor=141321)
 ![knex.js](https://img.shields.io/badge/-knex.js-006167?style=for-the-badge&logo=google&logoColor=white&labelColor=141321)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-006167?style=for-the-badge&logo=google&logoColor=white&labelColor=141321)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-006167?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=141321)
 <br>
 ![react](https://img.shields.io/badge/react-006167?style=for-the-badge&logo=react&logoColor=white&labelColor=141321)
 ![redux](https://img.shields.io/badge/-redux-006167?style=for-the-badge&logo=redux&logoColor=white&labelColor=141321)
-![AntD](https://img.shields.io/badge/-AntD-006167?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=141321)
+![AntD](https://img.shields.io/badge/-AntD-006167?style=for-the-badge&logo=Ant&logoColor=white&labelColor=141321)
 ![materialui](https://img.shields.io/badge/-materialui-006167?style=for-the-badge&logo=google&logoColor=white&labelColor=141321)
 <br>
-![Docker](https://img.shields.io/badge/-Docker-006167?style=for-the-badge&logo=amazon&logoColor=white&labelColor=141321)
+![Docker](https://img.shields.io/badge/-Docker-006167?style=for-the-badge&logo=Docker&logoColor=white&labelColor=141321)
 ![vercel](https://img.shields.io/badge/-vercel-006167?style=for-the-badge&logo=vercel&logoColor=white&labelColor=141321)
-![heroku](https://img.shields.io/badge/-heroku-006167?style=for-the-badge&logo=vercel&logoColor=white&labelColor=141321)
+![heroku](https://img.shields.io/badge/-heroku-006167?style=for-the-badge&logo=heroku&logoColor=white&labelColor=141321)
 ![git](https://img.shields.io/badge/-git-006167?style=for-the-badge&logo=git&logoColor=white&labelColor=141321)
 ![github](https://img.shields.io/badge/-github-006167?style=for-the-badge&logo=github&logoColor=white&labelColor=141321)
 <br>
