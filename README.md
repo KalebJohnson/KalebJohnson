@@ -32,7 +32,6 @@
 ![heroku](https://img.shields.io/badge/-heroku-006167?style=for-the-badge&logo=vercel&logoColor=white&labelColor=141321)
 ![git](https://img.shields.io/badge/-git-006167?style=for-the-badge&logo=git&logoColor=white&labelColor=141321)
 ![github](https://img.shields.io/badge/-github-006167?style=for-the-badge&logo=github&logoColor=white&labelColor=141321)
-
 <br>
 ![python](https://img.shields.io/badge/-python-006167?style=for-the-badge&logo=python&logoColor=white&labelColor=141321)
 ![MarkDown](https://img.shields.io/badge/-Markdown-006167?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=141321)
