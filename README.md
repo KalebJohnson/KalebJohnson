@@ -18,7 +18,7 @@
 ![Sass](https://img.shields.io/badge/sass-006167?style=for-the-badge&logo=sass&logoColor=white&labelColor=141321)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-006167?style=for-the-badge&logo=javascript&logoColor=white&labelColor=141321)
 <br>
-![Node.js (express)](https://img.shields.io/badge/-node.js-006167?style=for-the-badge&logo=Nodejs&logoColor=white&labelColor=141321)
+![Node.js (express)](https://img.shields.io/badge/-node.js-006167?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=141321)
 ![knex.js](https://img.shields.io/badge/-knex.js-006167?style=for-the-badge&logo=google&logoColor=white&labelColor=141321)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-006167?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=141321)
 <br>
