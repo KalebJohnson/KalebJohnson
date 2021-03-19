@@ -13,7 +13,7 @@
 
 <img align="center" src="https://i.ibb.co/RpKCMgm/my-skills.png"/>
 
-![HTML5](https://img.shields.io/badge/html%205-006167?style=for-the-badge&logo=html5&logoColor=white&labelColor=appveyor)
+![HTML5](https://img.shields.io/badge/html%205-006167?style=for-the-badge&logo=html5&logoColor=green&labelColor=white)
 ![CSS3](https://img.shields.io/badge/css%203-006167?style=for-the-badge&logo=css3&logoColor=white&labelColor=141321)
 ![Sass](https://img.shields.io/badge/sass-006167?style=for-the-badge&logo=sass&logoColor=white&labelColor=141321)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-006167?style=for-the-badge&logo=javascript&logoColor=white&labelColor=141321)
