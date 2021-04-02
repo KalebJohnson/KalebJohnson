@@ -3,8 +3,8 @@
 <img align="center" src="https://i.imgur.com/o1xpsU2.gif"/>
 
 
-- 🔭 I’m currently working on ... Lambda Labs (Express Groomer App)
-- 🌱 I’m currently learning ... More backend Technologies!
+- 🔭 I’m currently working on ... Gradutation and personal projects ( job hunt )
+- 🌱 I’m currently learning ... BE ( Golang ) FE ( react three fiber ) !
 - 👯 I’m looking to collaborate on ... Web Applications!
 - 💬 Ask me about ... anything..
 - 📫 How to reach me: ... [My linkedin!](https://www.linkedin.com/in/kaleb-johnson1/)
