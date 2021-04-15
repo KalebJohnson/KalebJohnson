@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ... Gradutation and personal projects ( job hunt )
-- 🌱 I’m currently learning ... BE ( various node.js technologies ) FE ( react three fiber ) !
+- 🌱 I’m currently learning ... BE ( various node.js technologies ) FE ( react three fiber, spring, drei ( you know, the fun stuff ) ) !
 - 👯 I’m looking to collaborate on ... Web Applications!
 - 💬 Ask me about ... anything..
 - 📫 How to reach me: ... [My linkedin!](https://www.linkedin.com/in/kaleb-johnson1/)
