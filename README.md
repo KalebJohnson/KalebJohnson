@@ -3,7 +3,7 @@
 <img align="center" src="https://i.imgur.com/o1xpsU2.gif"/>
 
 
-- 🔭 I’m currently working on ... new technologies - just ask!
+- 🔭 I’m currently working on ... An autoparts information/data hub!
 - 🌱 I’m currently learning ... other backend technologies!
 - 👯 I’m looking to collaborate on ... Web Applications!
 - 💬 Ask me about ... anything..
